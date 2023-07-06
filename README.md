@@ -2,8 +2,8 @@
 ### 목차
 ---
 
-### Git
-- [Git 정리]
+### Git & Github
+- [summary]
 
 
   
