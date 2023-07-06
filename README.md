@@ -1,8 +1,8 @@
-# TIL
+# 💻 **TIL**
 ### 목차
 ---
 
-### Git & Github
+### <span style= "color:blue">Git & Github</span>
 - [summary]
 
 
