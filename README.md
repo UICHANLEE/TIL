@@ -2,7 +2,7 @@
 ### 목차
 ---
 
-### <span style= "color:blue">Git & Github</span>
+### Git & Github
 - [summary]
 
 
