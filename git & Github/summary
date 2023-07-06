@@ -1,1 +1,15 @@
 # git 명령어
+---
+**초기 설정**
+- git init
+  init => initialize의 준말
+  <span style = "color:skyblue">맨 처음 </span> 프로젝트를 올릴 때 사용
+
+- git add .
+  add: 어떤 파일을 올릴지 리스트로 확인
+  .은 <span style = "color:skyblue">전부</span>라는 뜻
+  파일명으로 하나만 올릴 수도 있음
+
+- git status
+  git이 add한 파일을 체크해서 새 파일인지 알려줌
+  
