@@ -3,5 +3,5 @@
 ---
 
 ### Git & Github
-- [summary](https://github.com/UICHANLEE/TIL/main/git%20%26%20Github/summary)
+- [summary](https://github.com/UICHANLEE/TIL/blob/main/git%20%26%20Github/summary)
 
