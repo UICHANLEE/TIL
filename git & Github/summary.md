@@ -1,8 +1,10 @@
 # git 명령어
 ---
 **초기 설정**
-- git init
-  init => initialize의 준말
+- git init   
+
+  init => initialize의 준말   
+  
   맨 처음 프로젝트를 올릴 때 사용
 
 - git add .
