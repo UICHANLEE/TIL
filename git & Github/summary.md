@@ -28,6 +28,4 @@
 
 - git push origin branch_name
   branch 이름으로 푸쉬
-
-- dfjkdfj
 ```
