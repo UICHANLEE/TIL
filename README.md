@@ -11,3 +11,6 @@
 
 ### CSS
 * [summary](./CSS/CSS_summary.md)
+
+### JavaScript
+* [summary](./JS/JavaScript_summary.md)
