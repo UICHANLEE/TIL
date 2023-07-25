@@ -40,8 +40,14 @@
 ```
 
 - 이벤트 핸들러
-  ```
-  버튼을 눌렀을때 JavaScript실행
-  전통: onclick=""
-  Vue방식: @click=""
-  ```
+```
+버튼을 눌렀을때 JavaScript실행
+전통: onclick=""
+Vue방식: @click=""
+ ```
+
+-Vue에서 함수 만들기
+```
+methods: { 함수(){} }
+- 함수 안에서 데이터를 사용할 때는 this.데이터명
+```
